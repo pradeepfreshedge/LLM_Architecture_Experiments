@@ -1,0 +1,23 @@
+Core numerical and model-training library
+
+torch
+
+Data handling and experiment logs
+
+numpy pandas
+
+Plotting
+
+matplotlib
+
+Notebook environment
+
+jupyter ipykernel
+
+Common training utility
+
+tqdm
+
+Tokenization (retain only if imported by the notebook)
+
+tiktoken
