@@ -1,23 +1,11 @@
-Core numerical and model-training library
-
+# Core model training
 torch
-
-Data handling and experiment logs
-
-numpy pandas
-
-Plotting
-
+# Experiment data and plots
+numpy
+pandas
 matplotlib
-
-Notebook environment
-
-jupyter ipykernel
-
-Common training utility
-
-tqdm
-
-Tokenization (retain only if imported by the notebook)
-
+# Notebook execution
+notebook
+ipykernel
+# Tokenization used by the notebook
 tiktoken
